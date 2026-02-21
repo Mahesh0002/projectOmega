@@ -101,3 +101,9 @@ All specialized benchmarks import the core architecture from `src/omega_industri
 ```bash
 python benchmarks/planetary_movements.py
 ```
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+You are free to use, modify, and distribute this software, but any derivative works or modifications must also be distributed under the same GPLv3 license and remain open-source. See the [LICENSE](LICENSE) file for the full legal text.

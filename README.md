@@ -66,3 +66,7 @@ Beyond that, the remaining open items are:
 ```bash
 python src/omega.py              # Duffing oscillator benchmark, saves Expected vs Predicted plot
 python benchmarks/planetary_movements.py
+
+
+## Contributing
+Feel free to open issues or pull requests to improve this project.
